@@ -1,0 +1,8 @@
+.text-outline {
+  color: transparent;
+  text-shadow: 
+    -1px -1px 0 #FEE715,  
+    1px -1px 0 #FEE715,
+    -1px 1px 0 #FEE715,
+    1px 1px 0 #FEE715;
+}
